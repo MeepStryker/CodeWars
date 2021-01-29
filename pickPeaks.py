@@ -19,7 +19,7 @@ Have fun!
 MeepStryker
 '''
 def pick_peaks(arr):
-    #your code here
+    return None
     
 print(pick_peaks([1,2,3,6,4,1,2,3,2,1]), {"pos":[3,7], "peaks":[6,3]})
 print(pick_peaks([3,2,3,6,4,1,2,3,2,1,2,3]), {"pos":[3,7], "peaks":[6,3]})
