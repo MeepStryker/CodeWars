@@ -17,6 +17,7 @@ When two numbers have the same "weight", let us class them as if they were strin
 180 is before 90 since, having the same "weight" (9), it comes before as a string.
 
 All numbers in the list are positive numbers and the list can be empty.
+MeepStryker
 '''
 
 def order_weight(strng):
